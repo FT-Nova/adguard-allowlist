@@ -1,1 +1,17 @@
-derstandard.at
+! AdGuard Allowlist
+! Custom exception rules for domains that should not be blocked.
+! Add one rule per line.
+!
+! Adblock-style syntax (recommended):
+!   @@||domain.tld^  = unblock domain + all subdomains
+!   @@domain.tld     = unblock exact domain only (no subdomains)
+!
+! Domains-only syntax (also supported):
+!   domain.tld       = unblock domain + all subdomains
+!
+! Lines starting with ! or # are comments.
+
+! --- Entries ---
+
+! Der Standard (unblock derstandard.at + subdomains)
+@@||derstandard.at^
