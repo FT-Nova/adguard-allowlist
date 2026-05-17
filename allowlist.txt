@@ -21,3 +21,15 @@
 @@||googlesyndication.com^$important
 @@||securepubads.g.doubleclick.net^$important
 @@||doubleclick.net^$important
+
+! Taboola (content recommendations)
+@@||trc.taboola.com^$important
+@@||taboola.com^$important
+
+! Google Tag Manager / Analytics
+@@||googletagmanager.com^$important
+@@||google-analytics.com^$important
+
+! Cleverpush (notification service)
+@@||static.cleverpush.com^$important
+@@||cleverpush.com^$important
