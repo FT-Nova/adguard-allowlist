@@ -15,3 +15,9 @@
 
 ! Der Standard (unblock derstandard.at + subdomains)
 @@||derstandard.at^
+
+! Google Ads (unblock for ad testing / functionality)
+@@||pagead2.googlesyndication.com^$important
+@@||googlesyndication.com^$important
+@@||securepubads.g.doubleclick.net^$important
+@@||doubleclick.net^$important
